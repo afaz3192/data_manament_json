@@ -1,7 +1,5 @@
 import json
 import os
-cwd = os.getcwd()
-print(cwd)
 
 def employee_information():
    user_dict = {
